@@ -1,5 +1,5 @@
 ---
-title: free inspections
+title: Free Inspections
 slug: case-study-1
 date: '2024-01-01'
 excerpt: >-
