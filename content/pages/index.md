@@ -85,7 +85,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'professional diagnostics '
-        subtitle: Numbers Done
+        subtitle: 'Top of the line Equipment '
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
