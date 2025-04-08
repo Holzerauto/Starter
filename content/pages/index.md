@@ -630,7 +630,7 @@ sections:
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Gemini_Generated_Image_46vair46vair46va.jpg
           altText: Placeholder image
           styles:
             self:
