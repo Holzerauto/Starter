@@ -216,7 +216,7 @@ sections:
           safe and ready for the road. 
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/Gemini_Generated_Image_fq4w4afq4w4afq4w.jpg
           altText: Placeholder text
           elementId: ''
           styles:
