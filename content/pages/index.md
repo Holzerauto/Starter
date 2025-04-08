@@ -357,7 +357,7 @@ sections:
       - type: FeaturedItem
         title: Head Gasket Repair and Valvetrain
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first awesome Netlify site.
         image:
