@@ -117,7 +117,7 @@ sections:
           Only high end replacement parts are used that meet or exceed OEM
           specifications. 
         image:
-          url: /images/icon2.svg
+          url: /images/Gemini_Generated_Image_chsgv4chsgv4chsg.jpg
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
