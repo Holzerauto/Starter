@@ -158,7 +158,7 @@ sections:
         type: FeaturedItem
       - type: FeaturedItem
         title: Air Conditioning Recharging and Repair
-        subtitle: Numbers Done
+        subtitle: Fully HVAC Certifyed
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
