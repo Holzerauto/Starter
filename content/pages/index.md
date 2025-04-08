@@ -37,7 +37,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badgeW
+      label: welcome to holzer automotive
       color: text-primary
       type: Badge
     elementId: ''
