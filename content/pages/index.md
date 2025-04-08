@@ -163,7 +163,7 @@ sections:
           High end  A/C charging and leak detection machine.
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: /images/34788_app_1.jpg
           altText: Placeholder text
           elementId: ''
           styles:
