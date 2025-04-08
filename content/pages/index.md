@@ -627,8 +627,7 @@ sections:
       - title: having the right tool for the job
         tagline: ''
         subtitle: This is the item subtitle
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: ''
         image:
           url: /images/Gemini_Generated_Image_46vair46vair46va.jpg
           altText: Placeholder image
