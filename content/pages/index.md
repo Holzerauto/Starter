@@ -258,7 +258,7 @@ sections:
         styles:
           self:
             borderRadius: medium
-    motion: move-to-left
+    motion: static
     colors: bg-light-fg-dark
     styles:
       self:
