@@ -137,10 +137,8 @@ sections:
         type: FeaturedItem
       - title: Maintenice and Service
         subtitle: Oil Changes and more
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          Service to and maintenance for all components on your vehicle 
         image:
           url: /images/icon3.svg
           altText: Featured icon three
