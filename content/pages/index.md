@@ -742,7 +742,7 @@ sections:
         subtitle: ''
         text: ''
         image:
-          url: '/images/ChatGPT Image Apr 8, 2025, 02_54_27 AM.png'
+          url: /images/Gemini_Generated_Image_dn6w41dn6w41dn6w.jpg
           altText: Placeholder image
           styles:
             self:
