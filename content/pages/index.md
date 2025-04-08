@@ -358,8 +358,7 @@ sections:
         title: Head Gasket Repair and Valvetrain
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first awesome Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/BHP-EngineAssembly-2.webp
