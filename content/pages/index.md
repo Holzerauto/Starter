@@ -776,7 +776,7 @@ sections:
       text: Submit this form or use contact info below
       color: text-dark
       type: TitleBlock
-    subtitle: Contact us Phone Or email
+    subtitle: Contact email
     text: |
 
 
