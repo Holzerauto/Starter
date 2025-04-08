@@ -524,7 +524,7 @@ sections:
           Other shops couldn't figure it out. Honest, reliable, and got it
           right. Highly recommend!"
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Satisfied Customer '
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
