@@ -159,10 +159,8 @@ sections:
       - type: FeaturedItem
         title: Air Conditioning Recharging and Repair
         subtitle: Fully HVAC Certifyed
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: |
+          High end  A/C charging and leak detection machine.
         image:
           type: ImageBlock
           url: /images/icon1.svg
