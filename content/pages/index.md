@@ -624,7 +624,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Two
+      - title: Feature Item Twoha
         tagline: ''
         subtitle: This is the item subtitle
         text: |
