@@ -520,8 +520,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is how it works, how it functions. Good design doesn't just
-          make a product aesthetically pleasing, it makes it a pleasure to use."
+          "Breck at Holzer Automotive fixed my car perfectly on the first try!
+          Other shops couldn't figure it out. Honest, reliable, and got it
+          right. Highly recommend!"
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
