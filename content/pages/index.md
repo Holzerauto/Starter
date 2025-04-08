@@ -603,8 +603,9 @@ sections:
       - title: ''
         tagline: ''
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: |+
+          check engine light scanning
+
         image:
           url: '/images/ChatGPT Image Apr 8, 2025, 02_00_38 AM.png'
           altText: Placeholder Image
