@@ -140,7 +140,7 @@ sections:
         text: |
           Service to and maintenance for all components on your vehicle 
         image:
-          url: /images/icon3.svg
+          url: /images/Gemini_Generated_Image_i5lpg7i5lpg7i5lp.jpg
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
