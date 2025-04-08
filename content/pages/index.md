@@ -7,7 +7,7 @@ sections:
       text: ''
       color: text-dark
       type: TitleBlock
-    subtitle: "Owned and operated by\_Breck Holzer"
+    subtitle: Professional Automotive Repair And Diagnoise
     text: >+
       Holzer Automotive is owned and operated by Breck Holzer, a certified
       professional mechanic with over 15 years of experience. Breck has worked
