@@ -111,7 +111,7 @@ sections:
           styles:
             self:
               borderRadius: x-large
-      - title: Repair And Replacemnt parts
+      - title: Repair And Replacement Parts
         subtitle: The Job Stuff
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
