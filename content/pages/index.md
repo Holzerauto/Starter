@@ -259,9 +259,6 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      ****
-
-
       At Holzer Automotive, we use top-of-the-line tools and equipment to ensure
       your vehicle is diagnosed and repaired correctly the first time. Our
       professional-grade air conditioning charging and leak testing machine
