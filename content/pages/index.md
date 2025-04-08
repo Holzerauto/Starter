@@ -626,7 +626,7 @@ sections:
         type: FeaturedItem
       - title: Having the right tool for the job
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: ''
         image:
           url: /images/Gemini_Generated_Image_46vair46vair46va.jpg
