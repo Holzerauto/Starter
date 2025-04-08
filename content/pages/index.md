@@ -136,7 +136,7 @@ sections:
             textAlign: left
             justifyContent: center
         type: FeaturedItem
-      - title: Maintence and Service
+      - title: Maintenice and Service
         subtitle: Faster
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
