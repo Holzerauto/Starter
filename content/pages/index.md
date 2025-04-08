@@ -267,9 +267,6 @@ sections:
         textAlign: center
   - subtitle: ''
     images:
-      - url: /images/wellster-logo.svg
-        altText: Wellster logo
-        type: ImageBlock
       - url: /images/vise-logo.svg
         altText: Vise logo
         type: ImageBlock
