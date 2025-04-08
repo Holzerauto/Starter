@@ -107,7 +107,7 @@ sections:
           type: ImageBlock
           altText: Lightning bolt symbol on red background
           elementId: ''
-          url: '/images/ChatGPT Image Apr 8, 2025, 01_43_08 AM.png'
+          url: '/images/ChatGPT Image Apr 8, 2025, 02_00_38 AM.png'
           styles:
             self:
               borderRadius: x-large
