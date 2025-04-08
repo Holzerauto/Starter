@@ -496,7 +496,7 @@ sections:
           fixed my car quickly and efficiently. I will definitely be back in the
           future."
         tagline: Testimonial 2
-        subtitle: 'John Doe, Company'
+        subtitle: Happy Customer
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
