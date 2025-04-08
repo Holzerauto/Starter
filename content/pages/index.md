@@ -600,7 +600,7 @@ sections:
       type: TitleBlock
     subtitle: ''
     items:
-      - title: Feature Item One
+      - title: ''
         tagline: ''
         subtitle: This is the item subtitle
         text: |
