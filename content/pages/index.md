@@ -382,9 +382,7 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Look us up on Facebook
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: ''
     actions:
       - label: Get started
         url: /
