@@ -490,7 +490,11 @@ sections:
             flexDirection: row
             justifyContent: center
         type: FeaturedItem
-      - title: ''
+      - title: >-
+          "I was very impressed with the service I received at Holzer
+          Automotive. Breck was very knowledgeable and professional, and he
+          fixed my car quickly and efficiently. I will definitely be back in the
+          future."
         tagline: Testimonial 2
         subtitle: 'John Doe, Company'
         text: >-
