@@ -84,7 +84,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 'professional diagnostics '
+        title: 'Professional Diagnostics '
         subtitle: 'Top of the line Equipment '
         text: |+
           Fixed right the first time 
