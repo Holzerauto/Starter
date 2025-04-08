@@ -334,8 +334,7 @@ sections:
         title: 'Bottom end repair '
         tagline: This is the tagline
         subtitle: ''
-        text: |
-          Follow the tutorial to build your first Netlify site.
+        text: ''
         image:
           type: ImageBlock
           url: /images/honda-k24-5.webp
