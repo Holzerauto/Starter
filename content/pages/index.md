@@ -467,7 +467,7 @@ sections:
           always been happy with the service. He is honest and reliable, and I
           would highly recommend him to anyone."
         tagline: Testimonial 1
-        subtitle: 'Maria Walters, Company'
+        subtitle: Satisfied Customer
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
