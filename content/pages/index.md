@@ -304,7 +304,7 @@ sections:
       scan tools that can read all computer modules in your vehicle, helping us
       quickly identify and address any issues. With honest, experienced service
       and a keen attention to detail, we are committed to delivering the highest
-      quality care for your vehicle.
+      quality care for your vehicle and we stand behind our work.
     badge:
       label: Key Benefits
       color: text-primary
