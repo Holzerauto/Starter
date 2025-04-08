@@ -332,7 +332,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 'Bottom end repair '
-        tagline: This is the tagline
+        tagline: ''
         subtitle: ''
         text: ''
         image:
