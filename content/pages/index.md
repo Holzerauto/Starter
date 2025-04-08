@@ -738,7 +738,7 @@ sections:
         textAlign: center
     type: FeaturedItemsSection
   - title:
-      text: Please submit this form to message us
+      text: Submit this form or use contact info below
       color: text-dark
       type: TitleBlock
     subtitle: Contact us Phone Or email as well
