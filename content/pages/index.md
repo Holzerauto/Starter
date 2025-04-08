@@ -685,7 +685,7 @@ sections:
       text: Submit this form or use contact info below
       color: text-dark
       type: TitleBlock
-    subtitle: Contact us Phone Or email as well
+    subtitle: Contact us Phone Or email
     text: |+
       Phone: 208-827-6408
 
