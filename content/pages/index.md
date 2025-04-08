@@ -137,7 +137,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: Maintenice and Service
-        subtitle: Faster
+        subtitle: Oil Changes and more
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
