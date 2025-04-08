@@ -8,10 +8,16 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: "Owned and operated by\_Breck Holzer"
-    text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+    text: >+
+      Holzer Automotive is owned and operated by Breck Holzer, a certified
+      professional mechanic with over 15 years of experience. Breck has worked
+      at multiple different automotive dealerships, including Subaru, Honda, and
+      Chevy, as well as independent shops. He has master Subaru technician
+      certifications and ASE certifications, and graduated from college in 2010
+      with a degree in automotive repair.
+
+
+
     actions:
       - label: Get started
         altText: ''
