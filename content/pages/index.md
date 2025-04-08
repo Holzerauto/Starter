@@ -112,7 +112,7 @@ sections:
             self:
               borderRadius: x-large
       - title: Repair And Replacement Parts
-        subtitle: The Job Stuff
+        subtitle: Always Use Quality Parts
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
