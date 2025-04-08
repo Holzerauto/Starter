@@ -741,7 +741,7 @@ sections:
       text: Please submit this form to message us
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: Section with a form subtitleO
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
