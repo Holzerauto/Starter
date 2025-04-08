@@ -592,7 +592,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: We can fix it all
       color: text-primary
       styles:
         self:
