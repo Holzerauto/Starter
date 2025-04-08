@@ -8,16 +8,32 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: 'Professional Automotive Repair, Service, and Diagnostics '
-    text: >+
+    text: >
       Holzer Automotive is owned and operated by Breck Holzer, a certified
-      professional mechanic with over 15 years of experience. Breck has worked
-      at multiple different automotive dealerships, including Subaru, Honda, and
-      Chevy, as well as independent shops. He has master Subaru technician
-      certifications and ASE certifications, and graduated from college in 2010
-      with a degree in automotive repair.
+      mechanic with over 15 years of hands-on experience in the automotive
+      industry. Breck graduated in 2010 with a degree in Automotive Repair and
+      has since gained valuable experience working at top automotive
+      dealerships, including Subaru, Honda, and Chevrolet. Additionally, he ran
+      his own successful shop for five years, further enhancing his expertise in
+      a wide range of vehicle repairs.
+
+
+      Breck is a Master Subaru Technician, holds ASE certifications, and is
+      certified in Air Conditioning Repair, ensuring that each service is
+      performed to the highest standards. His extensive training and commitment
+      to quality allow him to handle all types of automotive repair and
+      maintenance with precision and care.
+
+
+      At Holzer Automotive, we are dedicated to providing reliable, professional
+      service for all our customers, backed by years of experience and advanced
+      certifications.
 
 
 
+
+
+       
     actions:
       - label: Get started
         altText: ''
