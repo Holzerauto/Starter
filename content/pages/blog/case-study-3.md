@@ -8,7 +8,7 @@ excerpt: >-
   Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
   pellentesque fermentum. Sed in facilisis dui.
 featuredImage:
-  url: /images/Gemini_Generated_Image_46vair46vair46va.jpg
+  url: /images/Gemini_Generated_Image_i5lpg7i5lpg7i5lp.jpg
   altText: Case study 3
   styles:
     self:
