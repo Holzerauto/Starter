@@ -251,7 +251,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Why Choose Holzer Automotive
+      text: Why Choose Holzer Automotive?
       color: text-dark
       styles:
         self:
