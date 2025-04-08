@@ -462,7 +462,10 @@ sections:
     title: null
     subtitle: What our customers say about us
     items:
-      - title: ''
+      - title: >-
+          "I have been taking my cars to Breck for over 10 years, and I have
+          always been happy with the service. He is honest and reliable, and I
+          would highly recommend him to anyone."
         tagline: Testimonial 1
         subtitle: 'Maria Walters, Company'
         text: >-
