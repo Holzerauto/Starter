@@ -258,11 +258,21 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      **Why Choose Holzer Automotive?**
+
+
+      At Holzer Automotive, we use top-of-the-line tools and equipment to ensure
+      your vehicle is diagnosed and repaired correctly the first time. Our
+      professional-grade air conditioning charging and leak testing machine
+      ensures accurate HVAC system repairs. We also utilize advanced diagnostic
+      scan tools that can read all computer modules in your vehicle, helping us
+      quickly identify and address any issues. With honest, experienced service
+      and a keen attention to detail, we are committed to delivering the highest
+      quality care for your vehicle.
+
+
+
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
