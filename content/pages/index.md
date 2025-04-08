@@ -333,7 +333,7 @@ sections:
       - type: FeaturedItem
         title: 'Bottom end repair '
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: ''
         text: |
           Follow the tutorial to build your first Netlify site.
         image:
