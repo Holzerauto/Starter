@@ -75,7 +75,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: 'Serives offered '
+      text: 'Serives Offered '
       color: text-dark
       styles:
         self:
