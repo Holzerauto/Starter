@@ -189,7 +189,7 @@ sections:
           Fix those shaking or squeaking brakes and keep your vehicle safe
         image:
           type: ImageBlock
-          url: /images/icon1.svg
+          url: '/images/ChatGPT Image Apr 8, 2025, 02_04_51 AM.png'
           altText: Placeholder text
           elementId: ''
           styles:
