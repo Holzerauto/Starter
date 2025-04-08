@@ -624,7 +624,7 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Feature Item Twoha
+      - title: having the right tool for the job
         tagline: ''
         subtitle: This is the item subtitle
         text: |
