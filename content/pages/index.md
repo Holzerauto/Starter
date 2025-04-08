@@ -386,7 +386,8 @@ sections:
           Learn from the tutorial and build your first awesome Netlify site.
         image:
           type: ImageBlock
-          url: /images/abstract-feature3.svg
+          url: >-
+            /images/screenshot_2022_01_31_at_22_30_11_eng_short_block_jpg_jpeg_image_568_420_pixels__3ca01019c5e70609b956ba1adf712e097a8769d5.webp
           altText: Placeholder image
           styles:
             self:
