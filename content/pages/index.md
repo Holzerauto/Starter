@@ -742,11 +742,19 @@ sections:
       color: text-dark
       type: TitleBlock
     subtitle: Contact us Phone Or email as well
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: |+
+      Phone: 208-827-6408
+
+      Email: HolzerAuto\@gmail.com
+
+      Shop Address: 1276 Shriver Rd Orofino Idaho 83544
+
+
+
+
+
+
+
     media:
       fields:
         - name: Breck Holzer
