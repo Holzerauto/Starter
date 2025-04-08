@@ -601,7 +601,7 @@ sections:
     subtitle: ''
     items:
       - title: ''
-        tagline: Check engine light scanning
+        tagline: ''
         subtitle: ''
         text: ''
         image:
