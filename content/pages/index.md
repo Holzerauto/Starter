@@ -267,9 +267,6 @@ sections:
         textAlign: center
   - subtitle: ''
     images:
-      - url: /images/contenful-logo.svg
-        altText: Contentful logo
-        type: ImageBlock
       - url: /images/sanity-logo.svg
         altText: Sanity logo
         type: ImageBlock
