@@ -258,8 +258,8 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: ''
-    text: >+
-      **Why Choose Holzer Automotive?**
+    text: >
+      ****
 
 
       At Holzer Automotive, we use top-of-the-line tools and equipment to ensure
@@ -270,9 +270,6 @@ sections:
       quickly identify and address any issues. With honest, experienced service
       and a keen attention to detail, we are committed to delivering the highest
       quality care for your vehicle.
-
-
-
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
