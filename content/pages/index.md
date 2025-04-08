@@ -211,10 +211,9 @@ sections:
       - type: FeaturedItem
         title: 'Steering, Suspension and Ball Joints'
         subtitle: ''
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Free Inspection of suspension components to verify your vehicle is
+          safe and ready for the road. 
         image:
           type: ImageBlock
           url: /images/icon1.svg
