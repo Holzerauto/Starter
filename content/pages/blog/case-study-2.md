@@ -2,11 +2,7 @@
 title: Professional Tools
 slug: case-study-2
 date: '2024-01-01'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: Tools to tackle any job
 featuredImage:
   url: /images/Gemini_Generated_Image_rz7f50rz7f50rz7f.jpg
   altText: Case study 2
