@@ -701,9 +701,7 @@ sections:
       type: TitleBlock
     subtitle: Contact email
     text: |
-
-
-      Email: breck\@holzer-auto.com
+      Email: <breck@holzer-auto.com>
 
       Shop Address: 1276 Shriver Rd Orofino Idaho 83544
     media:
