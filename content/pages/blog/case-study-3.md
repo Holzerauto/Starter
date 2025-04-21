@@ -1,7 +1,7 @@
 ---
 title: 'All System Diagnostic '
 slug: case-study-3
-date: '2024-01-01'
+date: ''
 excerpt: 'Profession diagnostic equipment '
 featuredImage:
   url: /images/Gemini_Generated_Image_9940sn9940sn9940.jpg
