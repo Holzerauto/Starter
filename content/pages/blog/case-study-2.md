@@ -1,7 +1,7 @@
 ---
 title: Professional Tools
 slug: case-study-2
-date: '2024-01-01'
+date: ''
 excerpt: Tools to tackle any job
 featuredImage:
   url: /images/Gemini_Generated_Image_rz7f50rz7f50rz7f.jpg
