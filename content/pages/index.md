@@ -226,16 +226,7 @@ sections:
             flexDirection: row
             justifyContent: center
             textAlign: left
-    actions:
-      - label: Get started
-        altText: ''
-        url: /
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: ''
-        type: Button
+    actions: []
     elementId: ''
     variant: three-col-grid
     colors: bg-neutral-fg-dark
