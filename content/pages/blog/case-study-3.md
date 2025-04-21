@@ -2,11 +2,7 @@
 title: 'All System Diagnostic '
 slug: case-study-3
 date: '2024-01-01'
-excerpt: >-
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem,
-  tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien.
-  Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem
-  pellentesque fermentum. Sed in facilisis dui.
+excerpt: 'Profession diagnostic equipment '
 featuredImage:
   url: /images/Gemini_Generated_Image_9940sn9940sn9940.jpg
   altText: Case study 3
